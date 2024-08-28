@@ -1,0 +1,35 @@
+clear
+db.getUsers()
+db.getRoles()
+use chat
+db.getRoles()
+use admin
+db.getRoles()
+db.getUsers()
+use chat
+db.getUsers()
+use admin
+db.getUsers()
+db.getUsers)_
+clear
+db.createRole({role: 'admin', privileges: [{resource: {db: 'chat', collection: ''}, actions: ['find', 'insert', 'update', 'remove']}], roles: []})
+db.createRole({role: 'admin', privileges: [{resource: {db: 'chat', collection: ''}, actions: ['find', 'insert', 'update', 'remove']}]})
+use chat
+use admin
+    ]
+        { role: "readWrite", db: "mydatabase" }
+    roles: [
+    pwd: "myPassword", // Use strong password practices
+    user: "myUsername",
+    ]
+        { role: "readWrite", db: "mydatabase" }
+    roles: [
+    pwd: "myPassword", // Use strong password practices
+    user: "myUsername",
+db.getUsers()
+use admin
+db.getUsers()
+clear
+db.getUsers()
+use admin
+db.getUsers()

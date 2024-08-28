@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/decode380/webchat--react-front
+[submodule "api"]
+	path = api
+	url = https://github.com/decode380/webchat--node-api
